@@ -1,0 +1,36 @@
+
+h1{
+    background-color: bisque;
+    text-align: center;
+}
+table,tr,td{
+    border: 1px solid black;
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+    border: none; 
+    font-weight: bold; 
+}
+table{
+    margin: auto;
+}
+
+td{
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+}
+.heading{
+    background-color: aqua;
+}
+.rows{
+    background-color: rgb(26, 47, 47);
+    color: aliceblue;
+}
